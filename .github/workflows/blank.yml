@@ -36,6 +36,6 @@ jobs:
           echo test, and deploy your project.
           
       - name: Build and Deploy to Azure
-        run: sh .deply.sh
+        run: sh ./deply.sh
         shell: bash
           
